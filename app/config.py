@@ -2,7 +2,7 @@
 
 APP_TITLE = "📊 E-Commerce Sales Dashboard"
 
-DATA_PATH = "../data/cleaned_data.csv"
+DATA_PATH = "data/cleaned_data.csv"
 
 # KPI Labels
 KPI_LABELS = {
